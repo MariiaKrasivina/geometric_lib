@@ -1,3 +1,4 @@
+`#0969DA`
 # Math formulas
 ## Area
 - Circle: S = πR²
