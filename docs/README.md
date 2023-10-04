@@ -1,7 +1,6 @@
 # Math formulas
 ## Area
 - Circle: S = πR²
-
 **Площадь круга**
 - Rectangle: S = ab
 **Площадь прямоугольника**
