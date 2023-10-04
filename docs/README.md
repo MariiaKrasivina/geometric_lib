@@ -1,10 +1,7 @@
 # Math formulas
 ## Area
 - Circle: S = πR²
-```
-def area(r):
-    return math.pi * r * r
-```
+
 **Площадь круга**
 - Rectangle: S = ab
 **Площадь прямоугольника**
@@ -22,3 +19,8 @@ def area(r):
 **Хеши последних коммитов:**
 _dfb1c4e44677a7bcb5d9763999a1f3680cb8b726_
 _380c25ef8ae470129ac27aa0898960fe7eafd8ca_
+
+```
+def area(r):
+    return math.pi * r * r
+```
