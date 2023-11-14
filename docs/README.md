@@ -1,21 +1,25 @@
 # Math formulas
 ## Area
-- Circle: S = πR²
+
 **Площадь круга**
-- Rectangle: S = ab
+- Circle: S = πR²
 **Площадь прямоугольника**
-- Square: S = a²
+- Rectangle: S = ab
 **Площадь квадрата**
+- Square: S = a²
+
 
 ## Perimeter
-- Circle: P = 2πR
+
 **Периметр круга**
-- Rectangle: P = 2a + 2b
+- Circle: P = 2πR
 **Периметр прямоугольника**
-- Square: P = 4a
+- Rectangle: P = 2a + 2b
 **Периметр кавдрата**
+- Square: P = 4a
 
 **Хеши последних коммитов:**
+
 _dfb1c4e44677a7bcb5d9763999a1f3680cb8b726_
 _380c25ef8ae470129ac27aa0898960fe7eafd8ca_
 
